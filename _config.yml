@@ -11,7 +11,7 @@ gitbook_version:  3.2.3
 
 url:              'https://madia3.github.io'
 baseurl:          
-rss:              RSS
+rss:              
 
 toc:
   enabled: true
